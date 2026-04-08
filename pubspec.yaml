@@ -2,7 +2,7 @@ name: stream_ocr_camera
 description: >
   A Flutter package for real-time ANPR (Automatic Number Plate Recognition)
   of Indonesian license plates using on-device ML Kit OCR from live camera stream.
-version: 0.1.0
+version: 0.1.1
 
 environment:
   sdk: ^3.5.0
